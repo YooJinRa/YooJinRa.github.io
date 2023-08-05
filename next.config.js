@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  basePath: "/YooJinRa.github.io",
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
